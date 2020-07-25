@@ -1,0 +1,11 @@
+# Logfile
+*.log
+
+# Simulation Outputs
+*.raw
+*.fft
+
+# Netlist
+*.net
+
+.ipynb_checkpoints/
